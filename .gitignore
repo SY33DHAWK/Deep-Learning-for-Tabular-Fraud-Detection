@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+env/
+
+# Raw data and archives (DO NOT PUSH)
+data/raw/
+*.csv
+*.zip
+*.7z
+
+# W&B logs
+wandb/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
